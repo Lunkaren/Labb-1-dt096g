@@ -1,0 +1,3 @@
+C:/Users/willi/CLionProjects/Labb1_dt096g/cmake-build-debug/CMakeFiles/Labb1_dt096g.dir
+C:/Users/willi/CLionProjects/Labb1_dt096g/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/willi/CLionProjects/Labb1_dt096g/cmake-build-debug/CMakeFiles/rebuild_cache.dir
